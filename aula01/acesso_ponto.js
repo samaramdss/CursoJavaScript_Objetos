@@ -8,4 +8,4 @@ const cliente = {
 console.log(cliente);
 console.log(`O nome do cliente é ${cliente.nome}`);
 
-console.log(`Os tês primeiros dígitos do CPF dele são ${cliente.cpf.substring(0,3)}`)
+console.log(`Os tês primeiros dígitos do CPF dele são ${cliente.cpf.substring(0,3)}`);
