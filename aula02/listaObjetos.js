@@ -1,8 +1,8 @@
 const cliente = {
-  nome: "Andre",
-  idade: 32,
+  nome: "Samara",
+  idade: 23,
   cpf: "111.222.333-44",
-  email: "andre@dominio.com.br",
+  email: "samara@dominio.com.br",
   telefone: ["4432253091", "44991810521"],
 };
 cliente.enderecos = [
