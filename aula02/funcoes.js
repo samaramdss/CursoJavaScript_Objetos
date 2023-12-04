@@ -5,7 +5,7 @@ const cliente = {
     email: "andre@dominio.com.br",
     telefone: ["4432253091", "44991810521"],
     saldo: 200,
-    efetuaPagamento: function (valor) {
+    efetuarPagamento: function (valor) {
         if (valor > this.saldo){
             console.log("Saldo insuficiente");
         }
@@ -16,5 +16,5 @@ const cliente = {
     }
   };
   
-  cliente.efetuaPagamento(180);
+  cliente.efetuarPagamento(180);
 
