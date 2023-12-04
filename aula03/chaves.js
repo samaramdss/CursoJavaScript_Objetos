@@ -1,7 +1,7 @@
 const cliente = {
   nome: "Samara",
   idade: 23,
-  cpf: "111.222.333-44",
+  cpf: "111.222.333-45",
   email: "samara@dominio.com.br",
   telefone: ["4432253091", "44991810521"],
 };
