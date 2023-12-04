@@ -1,6 +1,6 @@
 const produto = {
   nome: "Camiseta Branca Adidas",
-  preco: 50,
+  preco: 200,
   estoque: 10,
   categoria: ["roupas", "masculino", "camisetas", "Adidas"],
 
